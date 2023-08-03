@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div >
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivamm-verma)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-verma&repo=delta-full-stack-dev-2023)
 <!-- <br> -->
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-verma&repo=delta-full-stack-dev-2023)
+</div>
+
 
 <br>
 <br>
