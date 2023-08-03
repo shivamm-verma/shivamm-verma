@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivamm-verma)
+<!-- <br> -->
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-verma&repo=delta-full-stack-dev-2023)
