@@ -1,6 +1,6 @@
 ### Hi there!
 ### myself, Shivam Verma
-### my LinkedIn Profile link: https://www.linkedin.com/in/shivam-verma-332710237/
+<!-- ### my LinkedIn Profile link: https://www.linkedin.com/in/shivam-verma-332710237/ -->
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
