@@ -6,7 +6,7 @@
 <p align="center">
   <!-- <h3 align="center">⌨️ Shivam Verma</h3> -->
   <!-- <h2 align="center">🪴myself,  Shivam Verma.🪴</h2> -->
-  <h2 align="center">myself,  Shivam Verma.💻🪴</h2>
+  <h2 align="center">myself,  Shivam Verma.🪴</h2>
 </p>
 
 <p align="center">
