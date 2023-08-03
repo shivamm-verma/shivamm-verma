@@ -1,12 +1,12 @@
-<!-- ### Hi there 👋
-### -->
+### Hi there!
+### myself, Shivam Verma
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <h3 align="center">⌨️ Shivam Verma</h3>
 </p>
 
-<p align="center">
+<p align="center" style="width: 90vh;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=900&color=F7EE37&background=000632&width=435&lines=Hi!+glad+that+you're+checking-in.%F0%9F%AA%B4;myself%2C+SHIVAM+VERMA%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Full+Stack+Development-+Learner%F0%9F%92%BB;Machine+Learning%2F+AI-+enthusiast%F0%9F%92%BB;%26+Endlessly+Learning+%26+Growing.%F0%9F%AA%B4" alt="README Typing SVG">
 </p>
 <br><br><br><br><br><br>
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivamm-verma)
 <!-- <br> -->
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-verma&repo=delta-full-stack-dev-2023)
+![counter](https://[YourEndpoint].m.pipedream.net)
 
 
 
