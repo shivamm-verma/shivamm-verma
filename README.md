@@ -23,13 +23,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm-verma&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm-verma" /> </p>
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-verma-332710237" height="30" width="40" /></a>
-<a href="https://twitter.com/shivamm_verm" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Emblem.png" alt="shivam-verma-332710237" height="30" width="55" /></a>
-<!--<a href="https://instagram.com/github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="github" height="30" width="40" /></a> -->
-<a href="https://www.youtube.com/@shivamm-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivamxkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamm-verma" height="30" width="40" /></a>
-<a href="https://medium.com/@shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamm-verma" height="30" width="40" /></a><br>
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com)-->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shivamm_verm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamm-verma) [![LeetCode](https://img.shields.io/badge/-LeetCode-white?logo=leetcode)](https://www.leetcode.com/shivamm-verma) [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white)](https://medium.com/@shivamm-verma) [![YouTube](https://img.shields.io/badge/-YouTube-white?logo=youtube&logoColor=red)](https://www.youtube.com/@shivamm-) &nbsp;
+<!--<a href="https://www.youtube.com/@shivamm-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivamxkumar" height="20" width="30" /></a>-->
+<!--<a href="https://www.leetcode.com/shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamm-verma" height="30" width="40" /></a>-->
+<!--<a href="https://medium.com/@shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamm-verma" height="30" width="40" /></a><br>-->
+
 <ul>
   <li>How you can Reach Me?: <a href="mailto:shivam.verma256@outlook.com"> shivam.verma256@outlook.com </a></li>
 <!--   <li> More List Items </li> -->
