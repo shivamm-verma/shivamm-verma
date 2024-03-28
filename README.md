@@ -22,10 +22,11 @@
 <br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm-verma&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm-verma" /> </p> -->
-<h2>  &nbsp; Visitor's Count: </h2>
-<a align= 'center' href="httpss://profile-counter.glitch.me/{shivamm-verma}/count.svg" > 
-![VisitorCount](https://profile-counter.glitch.me/{shivamm-verma}/count.svg)
-</a>
+<h2 align="center">Visitor's Count:</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shivamm-verma/count.svg" alt="Visitor Count" />
+</p>
+<br>
 
 
 
