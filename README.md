@@ -1,11 +1,7 @@
 ### Hi there!
-<!-- ### myself, Shivam Verma -->
-<!-- ### my LinkedIn Profile link: https://www.linkedin.com/in/shivam-verma-332710237/ -->
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <!-- <h3 align="center">⌨️ Shivam Verma</h3> -->
-  <!-- <h2 align="center">🪴myself,  Shivam Verma.🪴</h2> -->
   <h2 align="center">I am Shivam Verma 👨🏻‍💻🪴</h2>
 </p>
 
@@ -21,7 +17,7 @@
 </p>
 <br>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamm-verma&label=Profile%20views&color=0e75b6&style=flat" alt="shivamm-verma" /> </p> -->
+
 <h2 align="center">Visitor's Count:</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/shivamm-verma/count.svg" alt="Visitor Count" />
@@ -32,12 +28,8 @@
 
 
 # 🌐 Socials:
-<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com)-->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shivamm_verm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamm-verma) [![LeetCode](https://img.shields.io/badge/-LeetCode-white?logo=leetcode)](https://www.leetcode.com/shivamm-verma) [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&logoColor=white)](https://medium.com/@shivamm-verma) [![YouTube](https://img.shields.io/badge/-YouTube-white?logo=youtube&logoColor=red)](https://www.youtube.com/@shivamm-) &nbsp;
-<!--<a href="https://www.youtube.com/@shivamm-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivamxkumar" height="20" width="30" /></a>-->
-<!--<a href="https://www.leetcode.com/shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamm-verma" height="30" width="40" /></a>-->
-<!--<a href="https://medium.com/@shivamm-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamm-verma" height="30" width="40" /></a><br>-->
 
 <ul>
   <li>How you can Reach Me?: <a href="mailto:shivam.verma256@outlook.com"> shivam.verma256@outlook.com </a></li>
@@ -47,18 +39,12 @@
 
 
 # 💻 Tech Stack:
-<!--<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>-->
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=red) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 <br><br>
 
 # 📊 GitHub Stats:
-<!--<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=shivamm-verma&show_icons=true&locale=en&layout=compact" alt="shivamm-verma" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shivamm-verma&show_icons=true&locale=en" alt="shivamm-verma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamm-verma&" alt="shivamm-verma" /></p> -->
-
 
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=bear"  display=block width=100% height=auto  alt="1" ></td>
@@ -73,43 +59,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- will figure this out later. :) -->
-<!--
-**shivamm-verma/shivamm-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-![Github stats](https://github-readme-stats.vercel.app/api?username=shivamm-verma) -->
-<!-- <br> -->
-<!--
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivamm-verma&repo=delta-full-stack-dev-2023) -->
-<!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
