@@ -54,8 +54,15 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=shivamm-verma&show_icons=true&theme=bear" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=shivamm-verma&theme=bear&hide_border=true" width = 400>
 </p>
 
+
 <br>
 <hr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo  
+<span>
+  
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=5&theme=onedark&combine_all_yearly_contributions=true) -->
+<p><img align="left" src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="shivamm-verma" /></p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&show_icons=true&locale=en&layout=compact" alt="shivamm-verma" /></p> 
+</span>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&show_icons=true&locale=en&layout=compact) -->
