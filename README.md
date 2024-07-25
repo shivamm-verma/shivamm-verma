@@ -65,21 +65,18 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=bear"  display=block width=100% height=auto  alt="1" ></td>
 </tr> 
 
-<tr>
-    <td><img align="right" src = "https://github-readme-stats.vercel.app/api?username=shivamm-verma&show_icons=true&theme=bear&hide_border=true" display=block width=49% height=auto  alt="2" ></td>
-    <td><img src = "https://github-readme-streak-stats.herokuapp.com?user=shivamm-verma&theme=bear&hide_border=true" display=block width=49% height=auto  alt="3" ></td>
-</tr> 
-
+<p>
+  <img align="right" src = "https://github-readme-stats.vercel.app/api?username=shivamm-verma&show_icons=true&theme=bear" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=shivamm-verma&theme=bear&hide_border=true" width = 430>
+</p>
 
 <br>
 <hr>
 
 ## 🔝 Top Contributed Repo
 <br>
-<tr>
-    <td><img align="left" src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=4&theme=bear&combine_all_yearly_contributions=true&hide_border=true" display=block width=47% height=auto  alt="4" ></td>
-    <td><img height="225px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=bear&hide_border=true" display=block width=47% height=auto  alt="5" /></td>
-</tr><br>
+<img align="left" src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=4&theme=bear&combine_all_yearly_contributions=true" alt="shivamm-verma" >
+<img height="225px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=bear&hide_border=false" alt="shivamm-verma" />
+<br>
 
 <!-- 
 ## 📈 Activity Graph
