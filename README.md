@@ -34,6 +34,9 @@
 </p>
 <br>
 
+<br>
+
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
@@ -62,11 +65,13 @@
 
 
 <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=bear"  display=block width=100% height=auto  alt="1" ></td>
+<!--     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=dracula"  display=block width=100% height=auto  alt="1" ></td> -->
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=dracula&border=false"  display=block width=100% height=auto  alt="1" ></td>
 </tr> 
 
 <p>
-  <img align="right" src = "https://github-readme-stats.vercel.app/api?username=shivamm-verma&show_icons=true&theme=bear" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=shivamm-verma&theme=bear&hide_border=true" width = 430>
+<!--   <img align="right" src = "https://github-readme-stats.vercel.app/api?username=shivamm-verma&show_icons=true&theme=dracula" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=shivamm-verma&theme=dracula&hide_border=true" width = 430> -->
+  <img align="right" src = "https://github-readme-stats.vercel.app/api?username=shivamm-verma&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" width = 400> <img src = "https://github-readme-streak-stats.herokuapp.com?user=shivamm-verma&theme=dracula&hide_border=false" width = 430>
 </p>
 
 <br>
@@ -74,8 +79,9 @@
 
 ## 🔝 Top Contributed Repo
 <br>
-<img align="left" src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=4&theme=bear&combine_all_yearly_contributions=true" alt="shivamm-verma" >
-<img height="225px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=bear&hide_border=false" alt="shivamm-verma" />
+<img align="left" src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma&limit=4&theme=dracula&combine_all_yearly_contributions=true" alt="shivamm-verma" >
+<!-- <img height="225px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamm-verma&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=dracula&hide_border=false" alt="shivamm-verma" /> -->
+<img height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamm-verma&theme=dracula&border_radius=10" alt="shivamm-verma" />
 <br>
 
 <!-- 
