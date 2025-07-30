@@ -20,26 +20,36 @@ Particularly for | Skills
 -- | --
 Web-Developer | `React`, `TypeScript`, `Tailwind CSS`, `NodeJs` + vanilla `HTML5`/`CSS`/`JS`
 Machine Learning | Libraries: `Numpy`, `Pandas`, etc
+Soft Skills | Team management, Team leadership, Volunteering, Project management, Communication, etc.
 DSA(Data Structures & Algorithm) | 
 
 ## 🌐 Socials
 <!--
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivamm.verm@gmail.com ](mailto:shivamm.verm@gmail.com)
 -->
- Let's| Connect| -
+ Let's| Connect| –
 -- | -- | --
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivam.verma256@outlook.com ](mailto:shivam.verma256@outlook.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Sv35215@gmail.com ](mailto:sv35215@gmail.com) | 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="20"> LinkedIn](https://www.linkedin.com/in/shivamm-verma/) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="20"> GitHub](https://github.com/shivamm-verma) | [<img src="https://images.freeimages.com/image/grids/9fe/x-twitter-light-grey-logo-5694251.png" height="20"> X(Twitter)](https://x.com/shivamm_verm)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Leetcode](https://leetcode.com/u/shivamm-verma/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="20"> Medium](https://medium.com/@shivamm-verma) | 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-1](https://www.youtube.com/@shivamm-) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-2](https://www.youtube.com/@shivamm-verma) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> ComingSoon]() 
 
-## ⭐ My Preferences
+## ⭐ My preferences
 Tools | Preferences
 -- | --
 IDE/IDLE | <img src="https://code.visualstudio.com/assets/branding/app-icon.png" height="30"> VS Code
 AI Chats | <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" height="30"> ChatGPT + <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.348.1698/1753407898445/Microsoft.VisualStudio.Services.Icons.Default" height="30"> GitHub Copilot Pro +  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" height="30"> Perplexity Pro
 Gym/Yoga | Gym💪🏼
 
+## 🎁 Sponsor Me
+Platform | My handle
+-- | --
+<img height="25" src="https://icons-for-free.com/iff/png/512/Paypal+Logo-1320568127715193217.png"> `PayPal.me` | [@shivammvermaa](https://www.paypal.me/shivammvermaa)
+<img height="25" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo">  `BuyMeACoffee` | [@shivamm_verma](https://buymeacoffee.com/shivamm_verma)
+<img height="25" src="https://andy.xyz/wp-content/uploads/2020/12/b61fd-mona.png?w=720"> `GitHub Sponsors` | [Gh Sponsors](https://github.com/sponsors/shivamm-verma)
+
+
+  
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamm-verma&theme=ayu_mirage)
