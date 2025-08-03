@@ -31,13 +31,13 @@ DSA(Data Structures & Algorithm) |
 -- | -- | --
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivam.verma256@outlook.com ](mailto:shivam.verma256@outlook.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Sv35215@gmail.com ](mailto:sv35215@gmail.com) | 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="20"> LinkedIn](https://www.linkedin.com/in/shivamm-verma/) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="20"> GitHub](https://github.com/shivamm-verma) | [<img src="https://images.freeimages.com/image/grids/9fe/x-twitter-light-grey-logo-5694251.png" height="20"> X(Twitter)](https://x.com/shivamm_verm)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Leetcode](https://leetcode.com/u/shivamm-verma/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="20"> Medium](https://medium.com/@shivamm-verma) | 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Leetcode](https://leetcode.com/u/shivamm-verma/) | [<img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" height="20"> GFG Profile](https://www.geeksforgeeks.org/user/shivammverma/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="20"> Medium](https://medium.com/@shivamm-verma) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-1](https://www.youtube.com/@shivamm-) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-2](https://www.youtube.com/@shivamm-verma) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> ComingSoon]() 
 
 ## ⭐ My preferences
 Tools | Preferences
 -- | --
-IDE/IDLE | <img src="https://code.visualstudio.com/assets/branding/app-icon.png" height="30"> VS Code
+IDE/IDLE | <img src="https://code.visualstudio.com/assets/branding/app-icon.png" height="35"> VS Code
 AI Chats | <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" height="30"> ChatGPT + <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.348.1698/1753407898445/Microsoft.VisualStudio.Services.Icons.Default" height="30"> GitHub Copilot Pro +  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" height="30"> Perplexity Pro
 Gym/Yoga | Gym💪🏼
 
