@@ -27,12 +27,13 @@ DSA(Data Structures & Algorithm) |
 <!--
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivamm.verm@gmail.com ](mailto:shivamm.verm@gmail.com)
 -->
- Let's| Connect| –
+Let's| Connect| –
 -- | -- | --
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivam.verma256@outlook.com ](mailto:shivam.verma256@outlook.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Sv35215@gmail.com ](mailto:sv35215@gmail.com) | 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="20"> LinkedIn](https://www.linkedin.com/in/shivamm-verma/) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="20"> GitHub](https://github.com/shivamm-verma) | [<img src="https://images.freeimages.com/image/grids/9fe/x-twitter-light-grey-logo-5694251.png" height="20"> X(Twitter)](https://x.com/shivamm_verm)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Leetcode](https://leetcode.com/u/shivamm-verma/) | [<img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" height="20"> GFG Profile](https://www.geeksforgeeks.org/user/shivammverma/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="20"> Medium](https://medium.com/@shivamm-verma) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Leetcode](https://leetcode.com/u/shivamm-verma/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="20"> Medium](https://medium.com/@shivamm-verma) |  [<img src="https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw=s256-rw" height="25"> Chesscom](https://www.chess.com/member/shivamisthatyou)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-1](https://www.youtube.com/@shivamm-) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-2](https://www.youtube.com/@shivamm-verma) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> ComingSoon]() 
+[<img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" height="20"> GFG Profile](https://www.geeksforgeeks.org/user/shivammverma/) | [<img src="https://hrcdn.net/fcore/assets/brand/hr-logo-cursor-new-black-green-5f27ef11b8.svg" height="20"> HackerRank](https://www.hackerrank.com/profile/shivamm_verma) | 
 
 ## ⭐ My preferences
 Tools | Preferences
