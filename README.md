@@ -46,8 +46,11 @@ Gym/Yoga | Gym💪🏼
 Platform | My handle
 -- | --
 <img height="25" src="https://icons-for-free.com/iff/png/512/Paypal+Logo-1320568127715193217.png"> `PayPal.me` | [@shivammvermaa](https://www.paypal.me/shivammvermaa)
+[<img height="200" src="https://images.ctfassets.net/wob906kz2qeo/701B4v9RLMzY4hrbCRMrhB/a55a1aff506b32ae47b777413cede4df/Recurly-PayPal.gif">](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL) | [<img height="18" src="https://www.zoey.com/wp-content/uploads/PayPal_Logo_Horizontal_Full_Color_RGB.png"> Tip <p align="center"><img height="150" alt="Tip–@shivamm-v-qrcode" src="https://github.com/user-attachments/assets/8ef6e8d9-92b6-4f0f-b50c-dfa919ebb6f0" /></p>](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL)
 <img height="25" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo">  `BuyMeACoffee` | [@shivamm_verma](https://buymeacoffee.com/shivamm_verma)
 <img height="25" src="https://andy.xyz/wp-content/uploads/2020/12/b61fd-mona.png?w=720"> `GitHub Sponsors` | [Gh Sponsors](https://github.com/sponsors/shivamm-verma)
+
+
 
 
   
