@@ -42,34 +42,35 @@ IDE/IDLE | <img src="https://code.visualstudio.com/assets/branding/app-icon.png"
 AI Chats | <img src="https://cdn.pixabay.com/photo/2023/05/08/00/43/chatgpt-7977357_1280.png" height="30"> ChatGPT + <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.348.1698/1753407898445/Microsoft.VisualStudio.Services.Icons.Default" height="30"> GitHub Copilot Pro +  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" height="30"> Perplexity Pro
 Gym/Yoga | Gym💪🏼
 
+<hr>
+
 ## 🎁 Sponsor Me
 Platform | My handle
 -- | --
 <img height="25" src="https://icons-for-free.com/iff/png/512/Paypal+Logo-1320568127715193217.png"> `PayPal.me` | [@shivammvermaa](https://www.paypal.me/shivammvermaa)
-[<img height="200" src="https://images.ctfassets.net/wob906kz2qeo/701B4v9RLMzY4hrbCRMrhB/a55a1aff506b32ae47b777413cede4df/Recurly-PayPal.gif">](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL) | [<img height="18" src="https://www.zoey.com/wp-content/uploads/PayPal_Logo_Horizontal_Full_Color_RGB.png"> Tip <p align="center"><img height="150" alt="Tip–@shivamm-v-qrcode" src="https://github.com/user-attachments/assets/8ef6e8d9-92b6-4f0f-b50c-dfa919ebb6f0" /></p>](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL)
+[<img height="25" src="https://icons-for-free.com/iff/png/512/Paypal+Logo-1320568127715193217.png">`PayPal.me` Tip](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL) | [<img height="18" src="https://www.zoey.com/wp-content/uploads/PayPal_Logo_Horizontal_Full_Color_RGB.png"> Tip <p align="center"><img height="150" alt="Tip–@shivamm-v-qrcode" src="https://github.com/user-attachments/assets/8ef6e8d9-92b6-4f0f-b50c-dfa919ebb6f0" /></p>](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL)
 <img height="25" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo">  `BuyMeACoffee` | [@shivamm_verma](https://buymeacoffee.com/shivamm_verma)
 <img height="25" src="https://andy.xyz/wp-content/uploads/2020/12/b61fd-mona.png?w=720"> `GitHub Sponsors` | [Gh Sponsors](https://github.com/sponsors/shivamm-verma)
-
-
-
 
   
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamm-verma&theme=ayu_mirage)
 -->
-<br>
+![](https://github-readme-activity-graph.vercel.app/graph?username=shivamm-verma&bg_color=000000&color=ffffff&line=1e8a00&point=ffffff&area=true&hide_border=true)
+
 <p align="center" >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage">
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage"> -->
   <!--
   <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma">-->
-  <br>
+<!--   <br> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamm-verma&theme=ayu_mirage">
   <br>
 Thankyou for checking-in, Want to contact?
   <a href="mailto:shivam.verma@outlook.com?subject=What's%20up%3F&body=Hello%20Shivam%2C%0A%0AI%20was%20looking%20at%20your%20GitHub%20profile%20and%20%5BPlease%20complete%20this%20email%5D%0A%0ARegards%2C%0A%5BPlease%20enter%20your%20Name%5D">Email Shivam☺️</a>
 </p>
+
 
 <!-- Ay, you coping my 3-Hour-Struggle to make this Profile Markdown, all by myself! -->
 <!-- Copyrights Reserved, Shivam Verma (https://github.com/shivamm-verma) -->
