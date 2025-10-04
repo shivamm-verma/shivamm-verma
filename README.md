@@ -57,14 +57,20 @@ Platform | My handle
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamm-verma&theme=ayu_mirage)
 -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=shivamm-verma&bg_color=000000&color=ffffff&line=1e8a00&point=ffffff&area=true&hide_border=true)
 
 <p align="center" >
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage"> -->
   <!--
   <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma">-->
-<!--   <br> -->
+<br>
+<p align="center" >
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamm-verma&theme=ayu_mirage"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamm-verma&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight">
+  <!--
+  <br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=shivamm-verma">-->
+  <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamm-verma&theme=ayu_mirage">
   <br>
 Thankyou for checking-in, Want to contact?
