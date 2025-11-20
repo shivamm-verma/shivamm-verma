@@ -1,5 +1,7 @@
 # 🪬 **Shivam Verma** ![Visitors](https://api.visitorbadge.io/api/combined?path=shivamm-verma&labelColor=%23252525&countColor=%2337d67a)
-– _React Developer + Machine Learning_
+– _Web Developer + Machine Learning_
+<br>
+Building Scalable Applications⚡
 
 <!--
 ## 🔥 Top Contributions
@@ -8,12 +10,15 @@ Organization | Helped in | Link to the `PR`(Pull Request)
 XYZ | abc | XYZ[dot]com
 -->
 
-### [📄 View My Resume here](https://www.overleaf.com/read/xbzyqdmvvmyn#ed61f5)
+<!-- ### [📄 View My Resume here](https://www.overleaf.com/read/xbzyqdmvvmyn#ed61f5)
+-->
 
 ## 📂 Projects
 Project Name | Link | Skills used | Origin
 -- |-- | -- | -- 
-TextOracle– Chrome Extension | [ℹ️-TextOracle GitHub Repo](https://github.com/shivamm-verma/TextOracle) | `Chrome Extension`, `Groq API`, `Python`, `AI Models`, `React`, `Tailwind CSS` | Hackathon Project
+#1 Startup | Coming soon! | | 
+@shivamm-verma's Portfolio Website | [See it Live 📍](https://shivamm-vermaportfolio.vercel.app/) | `ReactJS`, `Tailwind CSS`, `GSAP` | Portfolio Website
+TextOracle– Chrome Extension | [TextOracle GitHub Repo](https://github.com/shivamm-verma/TextOracle) | `Chrome Extension`, `Groq API`, `Python`, `AI Models`, `React`, `Tailwind CSS` | Hackathon Project
 
 ## 🧠 Skills
 Particularly for | Skills
@@ -24,18 +29,20 @@ Soft Skills | Team management, Team leadership, Volunteering, Project management
 DSA(Data Structures & Algorithm) | 
 
 ## 🌐 Socials
-<!--
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivamm.verm@gmail.com ](mailto:shivamm.verm@gmail.com)
--->
-Let's| Connect| –
+
+Mail | me
+-- | --
+[<img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" height="30"> sv35215@gmail.com ](mailto:sv35215@gmail.com) | [<img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" height="30"> shivam.verma256@outlook.com ](mailto:shivam.verma256@outlook.com)
+
+
+Look | AT | My
 -- | -- | --
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Shivam.verma256@outlook.com ](mailto:shivam.verma256@outlook.com) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="20"> Sv35215@gmail.com ](mailto:sv35215@gmail.com) | 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="20"> LinkedIn](https://www.linkedin.com/in/shivamm-verma/) | [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="20"> GitHub](https://github.com/shivamm-verma) | [<img src="https://images.freeimages.com/image/grids/9fe/x-twitter-light-grey-logo-5694251.png" height="20"> X(Twitter)](https://x.com/shivamm_verm)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Leetcode](https://leetcode.com/u/shivamm-verma/) | [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="20"> Medium](https://medium.com/@shivamm-verma) |  [<img src="https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw=s256-rw" height="25"> Chesscom](https://www.chess.com/member/shivamisthatyou)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-1](https://www.youtube.com/@shivamm-) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> YouTube-2](https://www.youtube.com/@shivamm-verma) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="20"> ComingSoon]() 
-[<img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" height="20"> GFG Profile](https://www.geeksforgeeks.org/user/shivammverma/) | [<img src="https://hrcdn.net/fcore/assets/brand/hr-logo-cursor-new-black-green-5f27ef11b8.svg" height="20"> HackerRank](https://www.hackerrank.com/profile/shivamm_verma) | 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="17"> YouTube-1](https://www.youtube.com/@shivamm-) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="17"> YouTube-2](https://www.youtube.com/@shivamm-verma) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="17"> ComingSoon]() 
+[<img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" height="20"> GFG Profile](https://www.geeksforgeeks.org/user/shivammverma/) | [<img src="https://hrcdn.net/fcore/assets/brand/hr-logo-cursor-new-black-green-5f27ef11b8.svg" height="20"> HackerRank](https://www.hackerrank.com/profile/shivamm_verma) | [<img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=210" height="20"> Codeforces](https://codeforces.com/profile/shivamm-verma)
 
-## ⭐ My preferences
+## 🎨 My preferences
 Tools | Preferences
 -- | --
 IDE/IDLE | <img src="https://code.visualstudio.com/assets/branding/app-icon.png" height="35"> VS Code
@@ -44,11 +51,10 @@ Gym/Yoga | Gym💪🏼
 
 <hr>
 
-## 🎁 Sponsor Me
+## 💰 Appreciate my work
 Platform | My handle
 -- | --
 <img height="25" src="https://icons-for-free.com/iff/png/512/Paypal+Logo-1320568127715193217.png"> `PayPal.me` | [@shivammvermaa](https://www.paypal.me/shivammvermaa)
-[<img height="25" src="https://icons-for-free.com/iff/png/512/Paypal+Logo-1320568127715193217.png">`PayPal.me` Tip](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL) | [<img height="18" src="https://www.zoey.com/wp-content/uploads/PayPal_Logo_Horizontal_Full_Color_RGB.png"> Tip <p align="center"><img height="150" alt="Tip–@shivamm-v-qrcode" src="https://github.com/user-attachments/assets/8ef6e8d9-92b6-4f0f-b50c-dfa919ebb6f0" /></p>](https://www.paypal.com/ncp/payment/VSPBHKL45VDVL)
 <img height="25" src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo">  `BuyMeACoffee` | [@shivamm_verma](https://buymeacoffee.com/shivamm_verma)
 <img height="25" src="https://andy.xyz/wp-content/uploads/2020/12/b61fd-mona.png?w=720"> `GitHub Sponsors` | [Gh Sponsors](https://github.com/sponsors/shivamm-verma)
 
@@ -74,7 +80,7 @@ Platform | My handle
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamm-verma&theme=ayu_mirage">
   <br>
 Thankyou for checking-in, Want to contact?
-  <a href="mailto:shivam.verma@outlook.com?subject=What's%20up%3F&body=Hello%20Shivam%2C%0A%0AI%20was%20looking%20at%20your%20GitHub%20profile%20and%20%5BPlease%20complete%20this%20email%5D%0A%0ARegards%2C%0A%5BPlease%20enter%20your%20Name%5D">Email Shivam☺️</a>
+  <a href="mailto:sv35215@gmail.com?subject=ADD%20A%20SUBJECT%3F%20-%20portfolio%20%40shivamm-verma&body=Hi%20Shivam!%0D%0A%0D%0AI%20was%20looking%20at%20your%20GitHub%20profile%20and...%20(COMPLETE%20THE%20MAIL)">Email Shivam☺️</a>
 </p>
 
 
