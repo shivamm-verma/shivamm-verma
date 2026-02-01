@@ -16,9 +16,10 @@ XYZ | abc | XYZ[dot]com
 ## 📂 Projects
 Project Name | Link | Skills used | Origin
 -- |-- | -- | -- 
-#1 Startup | Coming soon! | | 
-@shivamm-verma's Portfolio Website | [See it Live 📍](https://shivamm-vermaportfolio.vercel.app/) | `ReactJS`, `Tailwind CSS`, `GSAP` | Portfolio Website
-TextOracle– Chrome Extension | [TextOracle GitHub Repo](https://github.com/shivamm-verma/TextOracle) | `Chrome Extension`, `Groq API`, `Python`, `AI Models`, `React`, `Tailwind CSS` | Hackathon Project
+✈️ AERISK –Risk analysis & Fault prediction in Aviation | [https://risk-analysis-fault-prediction.vercel.app/](https://risk-analysis-fault-prediction.vercel.app/) | `Machine Leanning`, `Risk Analysis`, `Prediction`, `FastAPI`, `ReactJs`,  | Internship
+🔒 Private project | Coming soon! | | Self Ideation 
+🎨 @shivamm-verma's Portfolio website | [https://shivamm-vermaportfolio.vercel.app/](https://shivamm-vermaportfolio.vercel.app/) | `ReactJS`, `Tailwind CSS`, `GSAP` | Portfolio Website
+💡 TextOracle– Chrome Extension | [https://github.com/shivamm-verma/TextOracle](https://github.com/shivamm-verma/TextOracle) | `Chrome Extension`, `Groq API`, `Python`, `AI Models`, `React`, `Tailwind CSS` | Hackathon Project
 
 ## 🧠 Skills
 Particularly for | Skills
