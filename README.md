@@ -16,7 +16,8 @@ XYZ | abc | XYZ[dot]com
 ## 📂 Projects
 Project Name | Link | Skills used | Origin
 -- |-- | -- | -- 
-✈️ AERISK –Risk analysis & Fault prediction in Aviation | [https://risk-analysis-fault-prediction.vercel.app/](https://risk-analysis-fault-prediction.vercel.app/) | `Machine Leanning`, `Risk Analysis`, `Prediction`, `FastAPI`, `ReactJs`,  | Internship
+✈️ AERISK –Risk analysis & Fault prediction in Aviation | [https://risk-analysis-fault-prediction.vercel.app/](https://risk-analysis-fault-prediction.vercel.app/) | `Machine Leanning`, `Risk Analysis`, `Prediction`, `FastAPI`, `Model Connectivity`, `ReactJs`  | Internship project
+🌊 Abyss-AI | [https://abyss-ai.vercel.app/](https://abyss-ai.vercel.app/) | `Deep Learning`, `Clustering`, `Model Connectivity`, `FastAPI`, `ReactJs`, `Dashboard view` | Ideation & hackathon
 🔒 Private project | Coming soon! | | Self Ideation 
 🎨 @shivamm-verma's Portfolio website | [https://shivamm-vermaportfolio.vercel.app/](https://shivamm-vermaportfolio.vercel.app/) | `ReactJS`, `Tailwind CSS`, `GSAP` | Portfolio Website
 💡 TextOracle– Chrome Extension | [https://github.com/shivamm-verma/TextOracle](https://github.com/shivamm-verma/TextOracle) | `Chrome Extension`, `Groq API`, `Python`, `AI Models`, `React`, `Tailwind CSS` | Hackathon Project
